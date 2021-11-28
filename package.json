@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/cesce/casl-js-test#readme",
   "dependencies": {
+    "@casl/ability": "^5.4.3",
     "install": "^0.13.0",
     "npm": "^8.1.4"
   }
