@@ -1,0 +1,27 @@
+{
+  "name": "casl-js-test",
+  "version": "0.1.0",
+  "description": "CASL.js library test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesce/casl-js-test.git"
+  },
+  "keywords": [
+    "casl",
+    "authorization"
+  ],
+  "author": "CEC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesce/casl-js-test/issues"
+  },
+  "homepage": "https://github.com/cesce/casl-js-test#readme",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.1.4"
+  }
+}
